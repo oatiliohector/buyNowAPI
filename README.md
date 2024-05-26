@@ -1,2 +1,2 @@
-# buyNowAPI
-Buy Now API
+# Buy Now API
+
